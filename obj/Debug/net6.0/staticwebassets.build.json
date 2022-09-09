@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PGsWHxDT4slQjMILx+2UNZKE3zPPWI/ua9uSKvF0FtU=",
+  "Source": "dotnet_rest",
+  "BasePath": "_content/dotnet_rest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
